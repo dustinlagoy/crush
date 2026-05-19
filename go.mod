@@ -219,3 +219,5 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
 )
+
+replace charm.land/fantasy v0.33.0 => github.com/dustinlagoy/fantasy v0.33.1-0.20260619174158-bfcadce10185
